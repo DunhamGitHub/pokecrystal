@@ -2,6 +2,7 @@
 
 This adds various QOL improvements.
 
+- Starters are Charmander, B and S...
 - Better attacks
 - Shop at Cherrygrove sells Rare Candies etc. for 1$
 - Random encounters of all Monsters
