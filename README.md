@@ -1,4 +1,4 @@
-# Pokémon Crystal QOL [![Build Status][ci-badge]][ci]
+# Pokémon Crystal QOL
 
 This adds various QOL improvements.
 
