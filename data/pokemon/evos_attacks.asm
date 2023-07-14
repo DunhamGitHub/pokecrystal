@@ -17,17 +17,14 @@ INCLUDE "data/pokemon/evos_attacks_pointers.asm"
 BulbasaurEvosAttacks:
 	db EVOLVE_LEVEL, 16, IVYSAUR
 	db 0 ; no more evolutions
-	db 1, TACKLE
-	db 4, GROWL
-	db 7, LEECH_SEED
-	db 10, VINE_WHIP
-	db 15, POISONPOWDER
-	db 15, SLEEP_POWDER
-	db 20, RAZOR_LEAF
-	db 25, SWEET_SCENT
-	db 32, GROWTH
-	db 39, SYNTHESIS
-	db 46, SOLARBEAM
+	db 1, RAZOR_LEAF
+	db 2, HYDRO_PUMP
+	db 2, FIRE_BLAST
+	db 2, THUNDER
+	db 95, RAZOR_LEAF
+	db 95, HYDRO_PUMP
+	db 95, FIRE_BLAST
+	db 95, THUNDER
 	db 0 ; no more level-up moves
 
 IvysaurEvosAttacks:
@@ -69,16 +66,14 @@ VenusaurEvosAttacks:
 CharmanderEvosAttacks:
 	db EVOLVE_LEVEL, 16, CHARMELEON
 	db 0 ; no more evolutions
-	db 1, SCRATCH
-	db 1, GROWL
-	db 7, EMBER
-	db 13, SMOKESCREEN
-	db 19, RAGE
-	db 25, SCARY_FACE
-	db 31, FLAMETHROWER
-	db 37, SLASH
-	db 43, DRAGON_RAGE
-	db 49, FIRE_SPIN
+	db 1, RAZOR_LEAF
+	db 2, HYDRO_PUMP
+	db 2, FIRE_BLAST
+	db 2, THUNDER
+	db 95, RAZOR_LEAF
+	db 95, HYDRO_PUMP
+	db 95, FIRE_BLAST
+	db 95, THUNDER
 	db 0 ; no more level-up moves
 
 CharmeleonEvosAttacks:
@@ -117,17 +112,14 @@ CharizardEvosAttacks:
 SquirtleEvosAttacks:
 	db EVOLVE_LEVEL, 16, WARTORTLE
 	db 0 ; no more evolutions
-	db 1, TACKLE
-	db 4, TAIL_WHIP
-	db 7, BUBBLE
-	db 10, WITHDRAW
-	db 13, WATER_GUN
-	db 18, BITE
-	db 23, RAPID_SPIN
-	db 28, PROTECT
-	db 33, RAIN_DANCE
-	db 40, SKULL_BASH
-	db 47, HYDRO_PUMP
+	db 1, RAZOR_LEAF
+	db 2, HYDRO_PUMP
+	db 2, FIRE_BLAST
+	db 2, THUNDER
+	db 95, RAZOR_LEAF
+	db 95, HYDRO_PUMP
+	db 95, FIRE_BLAST
+	db 95, THUNDER
 	db 0 ; no more level-up moves
 
 WartortleEvosAttacks:
@@ -3331,12 +3323,8 @@ LugiaEvosAttacks:
 
 HoOhEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, SACRED_FIRE
-	db 11, SAFEGUARD
+	db 1, FIRE_BLAST
 	db 22, GUST
-	db 33, RECOVER
-	db 44, FIRE_BLAST
-	db 55, SUNNY_DAY
 	db 66, SWIFT
 	db 77, WHIRLWIND
 	db 88, ANCIENTPOWER
