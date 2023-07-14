@@ -6,7 +6,7 @@ This adds various QOL improvements.
 - Shop at Cherrygrove sells Rare Candies etc. for 1$
 - Random encounters of all Monsters
 - Main character is Gary / Twin, Run=Bird, Swim=Tuber
-- Rival is Misty
+- Rival sprite is Misty
 - Removed trainer back sprite (was ugly)
 - Elm's assistant gives you Master Ball etc.
 - Elm's assistant gives all HMs
