@@ -3,7 +3,7 @@
 This adds various QOL improvements.
 
 - Better attacks
-- Rare Candies 1$ at Shop
+- Shop at Cherrygrove sells Rare Candies etc. for 1$
 - Random encounters of all Monsters
 - Main character is Gary
 - Rival is Misty
