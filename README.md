@@ -3,7 +3,8 @@
 This adds various QOL improvements.
 
 - Starters are Charmander, B and S...
-- Better attacks
+- Better attacks for Gen 1 Starters
+- Can catch Mew, Charmander etc. first Route
 - Shop at Cherrygrove sells Rare Candies etc. for 1$
 - Random encounters of all Monsters
 - Main character is Gary / Twin, Run=Bird, Swim=Tuber

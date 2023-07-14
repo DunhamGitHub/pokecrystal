@@ -1237,57 +1237,57 @@ JohtoGrassWildMons:
 	def_grass_wildmons ROUTE_29
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 2, PIDGEY
-	db 2, SENTRET
-	db 3, PIDGEY
-	db 3, SENTRET
-	db 2, RATTATA
-	db 3, HOPPIP
-	db 3, HOPPIP
+	db 1, CHARMANDER
+	db 1, BULBASAUR
+	db 1, SQUIRTLE
+	db 1, MEW
+	db 1, CHARMANDER
+	db 1, BULBASAUR
+	db 1, SQUIRTLE
 	; day
-	db 2, PIDGEY
-	db 2, SENTRET
-	db 3, PIDGEY
-	db 3, SENTRET
-	db 2, RATTATA
-	db 3, HOPPIP
-	db 3, HOPPIP
+	db 1, CHARMANDER
+	db 1, BULBASAUR
+	db 1, SQUIRTLE
+	db 1, MEW
+	db 1, CHARMANDER
+	db 1, BULBASAUR
+	db 1, SQUIRTLE
 	; nite
-	db 2, HOOTHOOT
-	db 2, RATTATA
-	db 3, HOOTHOOT
-	db 3, RATTATA
-	db 2, RATTATA
-	db 3, HOOTHOOT
-	db 3, HOOTHOOT
+	db 1, CHARMANDER
+	db 1, BULBASAUR
+	db 1, SQUIRTLE
+	db 1, MEW
+	db 1, CHARMANDER
+	db 1, BULBASAUR
+	db 1, SQUIRTLE
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_30
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 3, LEDYBA
-	db 3, CATERPIE
-	db 4, CATERPIE
-	db 4, PIDGEY
-	db 3, WEEDLE
-	db 4, HOPPIP
-	db 4, HOPPIP
+	db 90, LUGIA
+	db 90, HO_OH
+	db 90, SUICUNE
+	db 90, ENTEI
+	db 90, CELEBI
+	db 90, MEWTWO
+	db 90, DRAGONITE
 	; day
-	db 3, PIDGEY
-	db 3, CATERPIE
-	db 4, CATERPIE
-	db 4, PIDGEY
-	db 3, WEEDLE
-	db 4, HOPPIP
-	db 4, HOPPIP
+	db 90, LUGIA
+	db 90, HO_OH
+	db 90, SUICUNE
+	db 90, ENTEI
+	db 90, CELEBI
+	db 90, MEWTWO
+	db 90, DRAGONITE
 	; nite
-	db 3, SPINARAK
-	db 3, HOOTHOOT
-	db 4, POLIWAG
-	db 4, HOOTHOOT
-	db 3, ZUBAT
-	db 4, HOOTHOOT
-	db 4, HOOTHOOT
+	db 90, LUGIA
+	db 90, HO_OH
+	db 90, SUICUNE
+	db 90, ENTEI
+	db 90, CELEBI
+	db 90, MEWTWO
+	db 90, DRAGONITE
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_31
