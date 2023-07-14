@@ -39,10 +39,10 @@ Marts:
 
 MartCherrygrove:
 	db 4 ; # items
-	db POTION
-	db ANTIDOTE
-	db PARLYZ_HEAL
-	db AWAKENING
+	db RARE_CANDY
+	db MASTER_BALL
+	db FULL_RESTORE
+	db MAX_REPEL
 	db -1 ; end
 
 MartCherrygroveDex:
