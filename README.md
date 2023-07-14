@@ -7,6 +7,7 @@ This adds various QOL improvements.
 - Random encounters of all Monsters
 - Main character is Gary
 - Rival is Misty
+- Removed trainer back sprite (was ugly)
 
 It builds the following ROMs:
 
