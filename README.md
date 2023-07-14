@@ -8,6 +8,7 @@ This adds various QOL improvements.
 - Main character is Gary / Twin, Run=Bird, Swim=Tuber
 - Rival is Misty
 - Removed trainer back sprite (was ugly)
+- Elm's assistant gives you Master Ball etc.
 
 It builds the following ROMs:
 

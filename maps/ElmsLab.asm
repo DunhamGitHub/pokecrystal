@@ -474,7 +474,27 @@ AideScript_GivePotion:
 	opentext
 	writetext AideText_GiveYouPotion
 	promptbutton
-	verbosegiveitem POTION
+	verbosegiveitem MASTER_BALL
+	verbosegiveitem MASTER_BALL
+	verbosegiveitem MASTER_BALL
+	verbosegiveitem MASTER_BALL
+	verbosegiveitem MASTER_BALL
+	verbosegiveitem NUGGET
+	verbosegiveitem NUGGET
+	verbosegiveitem NUGGET
+	verbosegiveitem NUGGET
+	verbosegiveitem HM_CUT
+	setevent EVENT_GOT_HM01_CUT
+	verbosegiveitem HM_FLY
+	setevent EVENT_GOT_HM02_FLY
+	verbosegiveitem HM_SURF
+	setevent EVENT_GOT_HM03_SURF
+	verbosegiveitem HM_STRENGTH
+	setevent EVENT_GOT_HM04_STRENGTH
+	verbosegiveitem HM_FLASH
+	setevent EVENT_GOT_HM05_FLASH
+	verbosegiveitem HM_WHIRLPOOL
+	setevent EVENT_GOT_HM06_WHIRLPOOL
 	writetext AideText_AlwaysBusy
 	waitbutton
 	closetext
