@@ -9,6 +9,8 @@ This adds various QOL improvements.
 - Rival is Misty
 - Removed trainer back sprite (was ugly)
 - Elm's assistant gives you Master Ball etc.
+- Elm's assistant gives all HMs
+- Can use HMs without Badges (I'm not a prisoner)
 
 It builds the following ROMs:
 
