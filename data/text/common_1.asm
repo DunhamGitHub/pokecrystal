@@ -365,7 +365,7 @@ _MomBoughtWithYourMoneyText::
 	prompt
 
 _MomItsInPCText::
-	text "It's in your PC."
+	text "It's in your MAC."
 	line "You'll like it!"
 	done
 

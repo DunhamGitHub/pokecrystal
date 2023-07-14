@@ -14,7 +14,7 @@ CeladonMansion2FBookshelf:
 
 CeladonMansion2FComputerText:
 	text "<PLAYER> turned on"
-	line "the PC."
+	line "the MAC."
 
 	para "…"
 

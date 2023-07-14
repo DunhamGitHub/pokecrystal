@@ -219,7 +219,7 @@ RecordedBillsNumberText:
 
 BillsSisterRefusedNumberText:
 	text "My brother made"
-	line "the PC #MON"
+	line "the MAC #MON"
 	cont "storage system."
 
 	para "I was going to"
@@ -234,7 +234,7 @@ BillsSisterPhoneFullText:
 
 BillsSisterStorageSystemText:
 	text "My big brother"
-	line "BILL made the PC"
+	line "BILL made the MAC"
 
 	para "#MON storage"
 	line "system."

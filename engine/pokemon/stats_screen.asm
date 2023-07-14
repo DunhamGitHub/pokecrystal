@@ -700,20 +700,20 @@ LoadPinkPage:
 	ret
 
 .Status_Type:
-	db   "STATUS/"
-	next "TYPE/@"
+	db   "Status/"
+	next "Type/@"
 
 .OK_str:
-	db "OK @"
+	db "Ok @"
 
 .ExpPointStr:
-	db "EXP POINTS@"
+	db "Exp Points@"
 
 .LevelUpStr:
-	db "LEVEL UP@"
+	db "Level Up@"
 
 .ToStr:
-	db "TO@"
+	db "To@"
 
 .PkrsStr:
 	db "#RUS@"
@@ -755,13 +755,13 @@ LoadGreenPage:
 	ret
 
 .Item:
-	db "ITEM@"
+	db "Item@"
 
 .ThreeDashes:
 	db "---@"
 
 .Move:
-	db "MOVE@"
+	db "Move@"
 
 LoadBluePage:
 	call .PlaceOTInfo

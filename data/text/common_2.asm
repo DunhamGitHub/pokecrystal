@@ -916,7 +916,7 @@ _MonNumberText:: ; unreferenced
 _WasSentToBillsPCText::
 	text_ram wStringBuffer1
 	text " was"
-	line "sent to BILL's PC."
+	line "sent to BILL's MAC."
 	prompt
 
 _PCGottaHavePokemonText::
@@ -1078,7 +1078,7 @@ _LuckyNumberMatchPCText::
 	para "of @"
 	text_ram wStringBuffer1
 	text " in"
-	line "your PC BOX."
+	line "your MAC BOX."
 	prompt
 
 _CaughtAskNicknameText::
@@ -1097,7 +1097,7 @@ _PokecenterPCCantUseText::
 
 _PlayersPCTurnOnText::
 	text "<PLAYER> turned on"
-	line "the PC."
+	line "the MAC."
 	prompt
 
 _PlayersPCAskWhatDoText::
@@ -1149,15 +1149,15 @@ _PlayersPCNoRoomDepositText::
 
 _PokecenterPCTurnOnText::
 	text "<PLAYER> turned on"
-	line "the PC."
+	line "the MAC."
 	prompt
 
 _PokecenterPCWhoseText::
-	text "Access whose PC?"
+	text "Access whose MAC?"
 	done
 
 _PokecenterBillsPCText::
-	text "BILL's PC"
+	text "BILL's MAC"
 	line "accessed."
 
 	para "#MON Storage"
@@ -1165,14 +1165,14 @@ _PokecenterBillsPCText::
 	prompt
 
 _PokecenterPlayersPCText::
-	text "Accessed own PC."
+	text "Accessed own MAC."
 
 	para "Item Storage"
 	line "System opened."
 	prompt
 
 _PokecenterOaksPCText::
-	text "PROF.OAK's PC"
+	text "PROF.OAK's MAC"
 	line "accessed."
 
 	para "#DEX Rating"
@@ -1346,7 +1346,7 @@ _OakRating19::
 
 _OakPCText4::
 	text "The link to PROF."
-	line "OAK's PC closed."
+	line "OAK's MAC closed."
 	done
 
 _TrainerRankingExplanationText:: ; unreferenced
@@ -1500,17 +1500,17 @@ _MailNoSpaceText::
 
 _MailAskSendToPCText::
 	text "Send the removed"
-	line "MAIL to your PC?"
+	line "MAIL to your MAC?"
 	done
 
 _MailboxFullText::
-	text "Your PC's MAILBOX"
+	text "Your MAC's MAILBOX"
 	line "is full."
 	prompt
 
 _MailSentToPCText::
 	text "The MAIL was sent"
-	line "to your PC."
+	line "to your MAC."
 	prompt
 
 _PokemonNotEnoughHPText::

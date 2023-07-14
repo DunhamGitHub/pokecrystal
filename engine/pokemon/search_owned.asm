@@ -76,7 +76,7 @@ CheckOwnMonAnywhere:
 	dec d
 	jr nz, .partymon
 
-	; Run CheckOwnMon on each Pokémon in the PC.
+	; Run CheckOwnMon on each Pokémon in the MAC.
 
 	ld a, BANK(sBoxCount)
 	call OpenSRAM

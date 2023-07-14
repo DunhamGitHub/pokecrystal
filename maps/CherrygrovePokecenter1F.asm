@@ -43,7 +43,7 @@ CherrygrovePokecenter1FFisherText:
 	done
 
 CherrygrovePokecenter1FGentlemanText:
-	text "That PC is free"
+	text "That MAC is free"
 	line "for any trainer"
 	cont "to use."
 	done

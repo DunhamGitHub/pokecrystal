@@ -127,7 +127,7 @@ EcruteakPokecenter1F_BillText2:
 	para "didn't exist in"
 	line "the past."
 
-	para "If you did, the PC"
+	para "If you did, the MAC"
 	line "in the past would"
 	cont "have a breakdown."
 

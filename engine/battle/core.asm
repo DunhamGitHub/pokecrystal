@@ -5705,7 +5705,7 @@ MoveInfoBox:
 .Disabled:
 	db "Disabled!@"
 .Type:
-	db "TYPE/@"
+	db "Type/@"
 
 .PrintPP:
 	hlcoord 5, 11

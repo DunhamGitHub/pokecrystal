@@ -23,14 +23,14 @@
 	charmap "<PARA>",    $51
 	charmap "<PLAYER>",  $52 ; wPlayerName
 	charmap "<RIVAL>",   $53 ; wRivalName
-	charmap "#",         $54 ; "POKé"
+	charmap "#",         $54 ; "Poké"
 	charmap "<CONT>",    $55
 	charmap "<……>",      $56 ; "……"
 	charmap "<DONE>",    $57
 	charmap "<PROMPT>",  $58
 	charmap "<TARGET>",  $59
 	charmap "<USER>",    $5a
-	charmap "<PC>",      $5b ; "PC"
+	charmap "<PC>",      $5b ; "MAC"
 	charmap "<TM>",      $5c ; "TM"
 	charmap "<TRAINER>", $5d ; "TRAINER"
 	charmap "<ROCKET>",  $5e ; "ROCKET"

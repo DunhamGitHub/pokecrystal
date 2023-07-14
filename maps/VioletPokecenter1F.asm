@@ -183,7 +183,7 @@ VioletPokecenterMobileAdapterText: ; unreferenced
 VioletPokecenter1FGameboyKidText:
 	text "A guy named BILL"
 	line "made the #MON"
-	cont "PC storage system."
+	cont "MAC storage system."
 	done
 
 VioletPokecenter1FGentlemanText:

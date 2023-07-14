@@ -400,9 +400,9 @@ PlaceCommandCharacter::
 
 TMCharText::      db "TM@"
 TrainerCharText:: db "TRAINER@"
-PCCharText::      db "PC@"
+PCCharText::      db "MAC@"
 RocketCharText::  db "ROCKET@"
-PlacePOKeText::   db "POKé@"
+PlacePOKeText::   db "Poké@"
 KougekiText::     db "こうげき@"
 SixDotsCharText:: db "……@"
 EnemyText::       db "Enemy @"

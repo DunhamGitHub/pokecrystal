@@ -41,15 +41,15 @@ AzaleaPokecenter1FUnusedText: ; unreferenced
 	line "created the system"
 
 	para "for storing"
-	line "#MON in a PC."
+	line "#MON in a MAC."
 
-	para "BILL's PC can"
+	para "BILL's MAC can"
 	line "store up to 20"
 	cont "#MON per BOX."
 	done
 
 AzaleaPokecenter1FFishingGuruText:
-	text "BILL's PC can"
+	text "BILL's MAC can"
 	line "store up to 20"
 	cont "#MON per BOX."
 	done

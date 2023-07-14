@@ -16,3 +16,4 @@ todo
 random wild pok
 random trainer pok
 remove back pic
+names lowercase

@@ -230,7 +230,7 @@ OaksLabTrashcanText:
 
 OaksLabPCText:
 	text "There's an e-mail"
-	line "message on the PC."
+	line "message on the MAC."
 
 	para "…"
 

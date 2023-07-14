@@ -385,7 +385,7 @@ NationalParkGameboyKidText:
 	para "You can also print"
 	line "out stuff like"
 
-	para "MAIL and your PC"
+	para "MAIL and your MAC"
 	line "BOXES."
 	done
 

@@ -34,7 +34,7 @@ MobileCheckOwnMonAnywhere:
 	dec d
 	jr nz, .partymon
 
-	; Run .CheckMatch on each Pokémon in the PC.
+	; Run .CheckMatch on each Pokémon in the MAC.
 
 	ld a, BANK(sBoxCount)
 	call OpenSRAM

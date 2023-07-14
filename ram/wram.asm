@@ -2360,8 +2360,8 @@ wWhichHPBar::
 	db
 
 wPokemonWithdrawDepositParameter::
-; 0: Take from PC
-; 1: Put into PC
+; 0: Take from MAC
+; 1: Put into MAC
 ; 2: Take from Day-Care
 ; 3: Put into Day-Care
 	db

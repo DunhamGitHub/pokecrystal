@@ -341,7 +341,7 @@ Route35NationalParkGateOfficer1MakeRoomText:
 	text "Uh-oh…"
 	line "Both your party"
 
-	para "and your PC BOX"
+	para "and your MAC BOX"
 	line "are full."
 
 	para "You have no room"
@@ -351,7 +351,7 @@ Route35NationalParkGateOfficer1MakeRoomText:
 	para "Please make room"
 	line "in your party or"
 
-	para "your PC BOX, then"
+	para "your MAC BOX, then"
 	line "come see me."
 	done
 

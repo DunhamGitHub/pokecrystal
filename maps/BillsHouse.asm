@@ -216,7 +216,7 @@ BillsGrandpaIntroText:
 	para "He's in JOHTO. He"
 	line "does something"
 
-	para "with PCs, so I'm"
+	para "with MACs, so I'm"
 	line "house-sitting."
 	done
 
