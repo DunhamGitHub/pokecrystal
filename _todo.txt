@@ -13,6 +13,9 @@
 
 todo
 
+wild encounter rout 1
+rival sprite is garry
+
 random wild pok
 random trainer pok
 remove back pic
