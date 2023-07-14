@@ -5,7 +5,7 @@ This adds various QOL improvements.
 - Better attacks
 - Shop at Cherrygrove sells Rare Candies etc. for 1$
 - Random encounters of all Monsters
-- Main character is Gary
+- Main character is Gary / Twin, Run=Bird, Swim=Tuber
 - Rival is Misty
 - Removed trainer back sprite (was ugly)
 
