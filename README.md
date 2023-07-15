@@ -7,6 +7,7 @@ This adds various QOL improvements.
 - Can catch Mew, Charmander etc. first Route
 - Shop at Cherrygrove sells Rare Candies etc. for 1$
 - Random encounters of all Monsters
+- PP do not decrease (what idiot thought PP was a good idea...)
 - Main character is Gary / Twin, Run=Bird, Swim=Tuber
 - Rival sprite is Misty
 - Removed trainer back sprite (was ugly)
