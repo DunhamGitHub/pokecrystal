@@ -3,10 +3,10 @@
 This adds various QOL improvements.
 
 - Starters are Charmander, B and S...
+- Random x/251 Pokémons (Wild, Trainers)
 - Better attacks for Gen 1 Starters
 - Can catch Mew, Charmander etc. first Route
 - Shop at Cherrygrove sells Rare Candies etc. for 1$
-- Random encounters of all Monsters
 - PP do not decrease (what idiot thought PP was a good idea...)
 - Main character is Gary / Twin, Run=Bird, Swim=Tuber
 - Rival sprite is Misty

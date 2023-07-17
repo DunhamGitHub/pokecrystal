@@ -8,12 +8,8 @@
 - data items attributes.asm, set price to 1, nugget to 10k
 - overworld.asm disable badge check on HM use
 - changed all SPRITE_RIVAL to SPRITE_MISTY
-
+- random wild pok
+- random trainer pok
 
 
 todo
-
-random wild pok
-random trainer pok
-remove back pic
-names lowercase
