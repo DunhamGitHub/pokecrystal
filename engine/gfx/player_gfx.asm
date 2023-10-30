@@ -112,10 +112,10 @@ GetCardPic:
 	ret
 
 ChrisCardPic:
-INCBIN "gfx/trainer_card/chris_card.2bpp"
+INCBIN "gfx/trainer_card/rival1.2bpp"
 
 KrisCardPic:
-INCBIN "gfx/trainer_card/kris_card.2bpp"
+INCBIN "gfx/trainer_card/misty.2bpp"
 
 TrainerCardGFX:
 INCBIN "gfx/trainer_card/trainer_card.2bpp"

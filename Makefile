@@ -273,8 +273,8 @@ gfx/player/chris_back.2bpp: rgbgfx += -Z
 gfx/player/kris.2bpp: rgbgfx += -Z
 gfx/player/kris_back.2bpp: rgbgfx += -Z
 
-gfx/trainer_card/chris_card.2bpp: rgbgfx += -Z
-gfx/trainer_card/kris_card.2bpp: rgbgfx += -Z
+gfx/trainer_card/rival1.2bpp: rgbgfx += -Z
+gfx/trainer_card/misty.2bpp: rgbgfx += -Z
 gfx/trainer_card/leaders.2bpp: tools/gfx += --trim-whitespace
 
 gfx/overworld/chris_fish.2bpp: tools/gfx += --trim-whitespace
